@@ -1,0 +1,10 @@
+
+pip install smtplib
+pip install MIMEMultipart
+pip install  MIMEText
+pip install MIMEBase
+pip install encoders
+pip install argparse
+pip install Fernet
+pip install subprocess
+pip install socket
